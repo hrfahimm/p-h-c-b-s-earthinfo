@@ -10853,6 +10853,7 @@ textarea.form-control-lg {
   height: 900px;
   justify-content: center;
   background-position: center;
+  padding: 0;
 }
 
 .call-to-action-section {
