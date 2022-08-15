@@ -1,0 +1,23 @@
+.download-section{
+    padding: 80px 0;
+
+    .download-card{
+        background: #e4ddddb2;
+        border-radius: 20px;
+        text-align: center;
+        padding: 5rem 8rem;
+        margin: 30px;
+        box-shadow: 1px 3px 3px 1px rgba(69, 154, 165, 0.767);
+    }
+
+    .quote{
+        font-size: 28px;
+
+        small{
+            font-size: 18px;
+            font-weight: 500;
+        }
+
+    }
+
+}      

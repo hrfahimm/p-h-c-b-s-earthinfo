@@ -1,0 +1,27 @@
+.hero-section{
+    background-image: url(../../assets/images/4k-earth\ android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-mbmot-1920x1080.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 12% 0;
+    opacity: 0.95;
+ 
+
+    h1,
+    p{  
+        line-height: 25px;
+        word-spacing: 3px;
+        margin: 15px 0px;
+        color:rgb(0, 0, 0) !important;
+        font-weight: 600;
+
+
+        
+    }
+
+    button{
+        background-image: linear-gradient(90deg, #8b62ff 0, #3b1bff);
+        border: #222;
+    }
+
+}

@@ -1,0 +1,57 @@
+.contact-section{
+    margin-top: 90px;
+
+ 
+    .map{
+        margin-top: 30px;
+    }
+    
+    img{
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 20px;
+    }
+    
+
+    
+    
+    .contact-form,
+    .contact-info{
+        margin-top: 20px;
+    
+    }
+    
+    .form-control{
+        box-shadow: none;
+        border: 2px solid rgb(128, 123, 123);
+        margin-bottom: 1.5rem;
+    
+    }
+    
+    .form-control:focus,
+    .form-control:hover{
+        box-shadow: none;
+        border-color: #333;
+        background-color: rgba(153, 153, 153, 0.205);
+        
+    
+    }
+    textarea{
+        max-width: 100%;
+    }
+    
+    button{
+        padding: 0.7rem;
+        background-image: linear-gradient(90deg , #8b62ff 0 , #3b1bff);
+        border: none;
+        outline: none;
+    
+    }    
+    
+    
+    
+    
+
+}

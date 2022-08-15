@@ -1,0 +1,42 @@
+// bootstrap theme changes
+
+// import bootstrap
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+@import './nav/nav.scss';
+
+@import './hero/hero.scss';
+
+@import './feature/feature.scss';
+
+@import './carousel/carousel.scss';
+
+@import './cta/cta.scss';
+
+@import './feature/feature.scss';
+
+@import './specification/specification.scss';
+
+@import './footer/footer.scss';
+
+@import './pricing/pricing.scss';
+
+@import './contact/contact.scss';
+
+@import './about/about.scss';
+
+@import './download/download.scss';
+
+
+// custom codes
+
+
+.extra-margin{
+    margin-top:80px;
+}
+ 
+.extra-margin-p{
+    margin-bottom:90px;
+}
